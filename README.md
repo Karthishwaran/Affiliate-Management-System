@@ -2,6 +2,8 @@
 # Affiliate Management System
 
 A complete affiliate marketing platform to recruit affiliates, track referrals, manage commissions, and process payouts.
+DEMO VIDEO:
+Link : https://drive.google.com/file/d/1pMtk3-QYeOqbZ6M64euAcUjs3Sg5kPUt/view?usp=sharing
 
 ## 🚀 Features
 
